@@ -9,5 +9,5 @@ let numOnene = 5;
 let numTwo = numOne;
 console.log(numTwo);
 let numOne = 5;
-let numTwo = numOne;
+ numTwo = numOne;
 console.log(numTwo);
