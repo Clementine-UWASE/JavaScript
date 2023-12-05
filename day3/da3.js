@@ -1,0 +1,11 @@
+let num =5;
+const bool = Boolean(num);
+const born = Boolean(num);
+console.log(!born);
+console.log(bool);
+let m = 6;
+let d = 7;
+console.log(m==7);
+let f = 4;
+let s = 4;
+console.log(f==s);
