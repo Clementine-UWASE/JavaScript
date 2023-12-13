@@ -1,0 +1,32 @@
+console.log(Math.sqrt(225));
+console.log(Math.round(123.3456));
+console.log(Math.abs(-56));
+console.log(Math.pow(3,2));
+console.log(Math.tan(60));
+console.log(Math.cos(30));
+console.log(Math.random());
+console.log(Math.ceil(3.2));
+console.log(Math.floor(3.7));
+console.log(Math.exp(84));
+console.log(Math.sqrt(4));
+console.log(Math.max(20,10,39));
+console.log(Math.min(10,20,17));
+console.log(Math.trunc(-9.6));
+console.log(Math.log(20));
+let x = -100;
+x <<= 5;
+console.log(x);
+let y = -100;
+y >>= 5;
+console.log(y);
+let w = 10;
+w ||= 5;
+console.log(w);
+let z = 10;
+z &&= 5;
+console.log(z);
+let t = 10;
+t ^= 5;
+console.log(t);
+
+
